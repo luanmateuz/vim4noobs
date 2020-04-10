@@ -9,8 +9,8 @@
 <h2>ROADMAP</h2>
 <h3>Introdução</h3>
 <ol>
-  <li><a href="00-introducao/historia">Historia</a></li>
-  <li><a href="00-introducao/motivos">Motivos para usar o Vim</a></li>
+  <li><a href="00-introducao/historia.md">Historia</a></li>
+  <li><a href="00-introducao/motivos.md">Motivos para usar o Vim</a></li>
   <li><a href="00-introducao/antes-de-comecar.md">Antes de começar</a></li>
 </ol>
 <h3>Basico</h3>

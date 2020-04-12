@@ -16,9 +16,9 @@
 <h3>Basico</h3>
 <ol>
   <li><a href="01-basico/como-vim-funciona.md">Como o Vim funciona</a></li>
-  <li><a href="#">Movimentando</a></li>
-  <li><a href="#">Inserção</a></li>
-  <li><a href="#">Copiar, Colar e Deletar</a></li>
+  <li><a href="01-basico/movimentando.md">Movimentando</a></li>
+  <li><a href="01-basico/insercao.md">Inserção</a></li>
+  <li><a href="01-basico/copiar-colar-deletar.md">Copiar, Colar e Deletar</a></li>
 </ol>
 <h3>Intermediario</h3>
 <h3>Avançado</h3>

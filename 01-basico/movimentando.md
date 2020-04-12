@@ -61,3 +61,6 @@ Podemos usar outras teclas para nos mover, e assim ganhar agilidade e tempo.
 <b>% ............. </b><i>para pular <b>para</b> o fechamento de um parentese/colchete/chaves</i>
 
 <b>^G ............ </b><i>para saber sua posição no documento</i>
+
+
+<blockquote><a href="../referencias/fontes-recomendacoes.md">Fontes e Recomendações</a><blockquote>

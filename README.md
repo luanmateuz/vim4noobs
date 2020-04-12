@@ -15,13 +15,17 @@
 </ol>
 <h3>Basico</h3>
 <ol>
-  <li><a href="01-basico/como-vim-funciona">Como o Vim funciona</a></li>
+  <li><a href="01-basico/como-vim-funciona.md">Como o Vim funciona</a></li>
   <li><a href="#">Movimentando</a></li>
   <li><a href="#">Inserção</a></li>
   <li><a href="#">Copiar, Colar e Deletar</a></li>
 </ol>
 <h3>Intermediario</h3>
 <h3>Avançado</h3>
+<h3>Referencias</h3>
+<ol>
+  <li><a href="referencias/fontes-recomendacoes.md">Fontes e Recomendações</a></li>
+</ol>
 
 
 <h2>Como Contribuir</h2>

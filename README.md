@@ -21,7 +21,9 @@
   <li><a href="01-basico/copiar-colar-deletar.md">Copiar, Colar e Deletar</a></li>
 </ol>
 <h3>Intermediario</h3>
-<h3>Avançado</h3>
+<ol>
+  <li><a href="02-intermediario/configurando-vim.md">Configurando o Vim</a></li>
+</ol>
 <h3>Referencias</h3>
 <ol>
   <li><a href="referencias/fontes-recomendacoes.md">Fontes e Recomendações</a></li>

@@ -23,6 +23,7 @@
 <h3>Intermediario</h3>
 <ol>
   <li><a href="02-intermediario/configurando-vim.md">Configurando o Vim</a></li>
+  <li><a href="02-intermediario/buscas-substituicoes.md">Buscas e Substituições</a></li>
 </ol>
 <h3>Referencias</h3>
 <ol>

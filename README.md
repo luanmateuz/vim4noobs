@@ -38,10 +38,9 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 <ol>
   <li>Realize um Fork do projeto</li>
-  <li>Crie um branch com a nova feature ( git checkout -b feature/featureBraba )
-  </li>
-  <li>Realize o Commit ( git commit -m 'Add some featureBraba' )</li>
-  <li>Realize o Push no Branch ( git push origin feature/featureBraba )</li>
+  <li>Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)</li>
+  <li>Realize o Commit (`git commit -m 'Add some featureBraba'`)</li>
+  <li>Realize o Push no Branch (`git push origin feature/featureBraba`)</li>
   <li>Abra um Pull Request</li>
 </ol>
 

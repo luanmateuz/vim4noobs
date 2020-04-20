@@ -24,6 +24,8 @@
 <ol>
   <li><a href="02-intermediario/configurando-vim.md">Configurando o Vim</a></li>
   <li><a href="02-intermediario/buscas-substituicoes.md">Buscas e Substituições</a></li>
+  <li><a href="02-intermediario/usando-ctrl.md">Usando o Ctrl</a></li>
+  <li><a href="02-intermediario/arquivos-janelas.md">Arquivos e Janelas</a></li>
 </ol>
 <h3>Referencias</h3>
 <ol>

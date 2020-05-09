@@ -1,6 +1,6 @@
 <h1>Copiar, Colar e Deletar</h1>
 
-É impotante lembrar que você tem que estar no modo normal.
+É importante lembrar que você tem que estar no modo normal.
 
 <h2>Copiar e Colar</h2>
 
@@ -8,7 +8,7 @@ Utlizamos o <b>y</b> para copiar e o <b>p</b> para colar. Uma observação que l
 
 <b>yy ............ </b><i>para copiar uma linha inteira</i>
 
-A maneira mais facil de fazer um copy&paste é entrar no modo visual(v), selecionar o texto e pressionar o <i>y</i>
+A maneira mais fácil de fazer um copy&paste é entrar no modo visual(v), selecionar o texto e pressionar o <i>y</i>
 
 <h2>Deletando</h2>
 
@@ -16,19 +16,19 @@ A maneira mais facil de fazer um copy&paste é entrar no modo visual(v), selecio
  
 <b>X ............... </b><i>deleta o caractere de trás do cursor</i>
 
-<b>dw ............ </b><i>deleta a partir do cursor ate o começo da proxima palavra</i>
+<b>dw ............ </b><i>deleta a partir do cursor até o começo da próxima palavra</i>
 
-<b>d$ ............. </b><i>deleta do cursor ate o fim da linha</i>
+<b>d$ ............. </b><i>deleta do cursor até o fim da linha</i>
 
 <b>dd ............. </b><i>deleta a linha inteira</i>
 
-<b>C ............... </b><i>deleta de onde o cursor estiver até o final da linha, e entra em modo de inserção apartir dali</i>
+<b>C ............... </b><i>deleta de onde o cursor estiver até o final da linha e entra em modo de inserção a partir dali</i>
 
-<b>ce ............. </b><i>deleta do cursor até o final da palavra, e entra em modo de inserção</i>
+<b>ce ............. </b><i>deleta do cursor até o final da palavra e entra em modo de inserção</i>
 
 <h2>Recortar e Colar</h2>
 
-Quando deletamos um conteudo no Vim, esse conteudo é armazenado na memoria, ou seja usamos alguma tecla de exclução <i>(d,dd,dw etc)</i> para recortar, agora é so mover o cursor ate o local onde deseja colar e usar o <i>p</i>
+Quando deletamos um conteúdo no Vim, esse conteudo é armazenado na memória, ou seja usamos alguma tecla de exclução <i>(d,dd,dw etc)</i> para recortar, agora é só mover o cursor até o local onde deseja colar e usar o <i>p</i>
 
 <h2>Clipboard</h2>
 

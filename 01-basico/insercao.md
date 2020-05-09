@@ -15,11 +15,11 @@ Para entrar no modo de inserção, estando em modo normal, pode-se pressionar qu
 
 <b>O ............ </b><i>insere uma linha acima</i>
 
-<b>\<Esc> .... </b><i>sai do mode inserção</i>
+<b>\<Esc> .... </b><i>sai do modo de inserção</i>
 
 <h2>Salvar ou Sair</h2>
 
-Uma vez no modo de inserção, todas as teclas são apenas caracteres para serem utilizadas no texto. Para <i>salvar</i> o conteudo escrito, aperte <b>\<Esc></b> para sair do modo de inserção, e use um desses comandos:
+Uma vez no modo de inserção, todas as teclas são apenas caracteres para serem utilizadas no texto. Para <i>salvar</i> o conteúdo escrito, aperte <b>\<Esc></b> para sair do modo de inserção e use um desses comandos:
 
 <b>:w ............. </b><i>para salvar</i>
 

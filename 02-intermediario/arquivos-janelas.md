@@ -2,15 +2,15 @@
 
 <h2>Arquivos</h2>
 
-Para abrirmos mais de um arquivo por vez, podemos fazer o seguinte comando
+Para abrirmos mais de um arquivo por vez, podemos fazer o seguinte comando:
 
 ```shell
 vim -O nomeArquivo.txt outroArquivo.txt
 ```
 
-com isso, o Vim ira abrir os arquivos em duas janelas verticais, para janelas horizontais basta substituir o <b>-O</b> por <b>-o</b>. Se você omitir o <b>-o/-O</b> o Vim esses arquivos serão abertos do mesmo jeito, mas apenas em uma janela, para alterar entre uma e outra tera de usar <b>^ww</b>.
+Com isso, o Vim irá abrir os arquivos em duas janelas verticais, para janelas horizontais basta substituir o <b>-O</b> por <b>-o</b>. Se você omitir o <b>-o/-O</b> do Vim esses arquivos serão abertos do mesmo jeito, mas apenas em uma janela, para alterar entre uma e outra terá de usar <b>^ww</b>.
 
-Outra forma possivel, ja dentro do Vim, é usando <b>:edit</b> ou <b>:e</b> e passando o diretorio.
+Outra forma possível, já dentro do Vim, é usando <b>:edit</b> ou <b>:e</b> e passando o diretório.
 
 ```shell
 :e /home/luan/Desktop/nomeArquivo.txt
@@ -20,7 +20,7 @@ Outra forma possivel, ja dentro do Vim, é usando <b>:edit</b> ou <b>:e</b> e pa
 
 O Vim permite fazer uma divisão de janelas, assim conseguimos trabalhar em diversos arquivos de uma vez.
 
-Podemos abrir janelas na horizontal quanto na vertical, e é simples.
+Podemos tanto abrir janelas na horizontal quanto na vertical, e é simples.
 
 <b>:vsp /home/luan/Desktop/nomeArquivo.txt ............... </b><i>vertical</i>
 
@@ -28,7 +28,7 @@ Podemos abrir janelas na horizontal quanto na vertical, e é simples.
 
 Para movermos entre uma janela e outra, usamos:
 
-<b>^w + tecla de direcao ................. </b>move entre as janelas
+<b>^w + tecla de direção ................. </b>move entre as janelas
 
 <b>^wo .............................................. </b>somente essa janela, fecha todas as outras
 

@@ -4,23 +4,23 @@
   </a>
 </p>  
 <h1 align="center">vim4noobs</h1>
-<p align="center">Quem nunca entrou no <b>Vim</b> e não deu conta de sair? Pois bem, aqui você ira aprender um pouco a mais do que sair. Não ache que so ler voce ira aprender, para realmente aprender precisara de praticar e muito!</p>
+<p align="center">Quem nunca entrou no <b>Vim</b> e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito!</p>
 
 <h2>ROADMAP</h2>
 <h3>Introdução</h3>
 <ol>
-  <li><a href="00-introducao/historia.md">Historia</a></li>
+  <li><a href="00-introducao/historia.md">História</a></li>
   <li><a href="00-introducao/motivos.md">Motivos para usar o Vim</a></li>
   <li><a href="00-introducao/antes-de-comecar.md">Antes de começar</a></li>
 </ol>
-<h3>Basico</h3>
+<h3>Básico</h3>
 <ol>
   <li><a href="01-basico/como-vim-funciona.md">Como o Vim funciona</a></li>
   <li><a href="01-basico/movimentando.md">Movimentando</a></li>
   <li><a href="01-basico/insercao.md">Inserção</a></li>
   <li><a href="01-basico/copiar-colar-deletar.md">Copiar, Colar e Deletar</a></li>
 </ol>
-<h3>Intermediario</h3>
+<h3>Intermediário</h3>
 <ol>
   <li><a href="02-intermediario/configurando-vim.md">Configurando o Vim</a></li>
   <li><a href="02-intermediario/buscas-substituicoes.md">Buscas e Substituições</a></li>
@@ -28,14 +28,14 @@
   <li><a href="02-intermediario/arquivos-janelas.md">Arquivos e Janelas</a></li>
   <li><a href="02-intermediario/acabou.md">Acabou?</a></li>
 </ol>
-<h3>Referencias</h3>
-<ol>
+<h3>Referências</h3>
+<ul>
   <li><a href="referencias/fontes-recomendacoes.md">Fontes e Recomendações</a></li>
-</ol>
+</ul>
 
 
 <h2>Como Contribuir</h2>
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são <b>extremamente apreciadas</b>
+Contribuições fazem com que a comunidade <i>Open Source</i> seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são <b>extremamente apreciadas</b>
 
 <ol>
   <li>Realize um Fork do projeto</li>

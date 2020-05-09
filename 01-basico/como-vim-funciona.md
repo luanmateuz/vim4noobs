@@ -8,7 +8,7 @@ Quando você abre o Vim pela primeira vez, acaba se deparando com isso:
 
 Provavelmente, o que passa pela sua cabeça é <i>"ok, e o que eu faço agora?"</i>
 
-Você começar a digitar, so que não funciona e se conseguir, não conseguira sair, e acaba fechando o terminal. Relaxa, tambem ja passei por isso rsrsrs.
+Você começar a digitar, so que não funciona e se conseguir, não conseguira sair, e acaba fechando o terminal. Relaxa, tambem já passei por isso rsrsrs.
 
 Isso acontece pois, o Vim funciona por "modos", que são estados do editor. São eles:
 
@@ -40,7 +40,7 @@ Agora que já sabemos como o Vim funciona, vamos começar a aprender algumas tec
 
 <h2>Observações</h2>
 
-Toda vez que for trocar de modo, voce sempre ira passar pelo Normal, na duvida aperte <b>\<Esc></b> antes da sua tecla de acesso.
+Toda vez que for trocar de modo, você sempre irá passar pelo Normal, na dúvida aperte <b>\<Esc></b> antes da sua tecla de acesso.
 
 Para identificar em qual modo você está, olhe no rodapé da tela.
 
@@ -48,9 +48,9 @@ Para identificar em qual modo você está, olhe no rodapé da tela.
 
 <blockquote><i>modo insert.</i></blockquote>
 
-No Vim letra maiuscula faz coisas diferentes das minusculas.
+No Vim letra maiúscula faz coisas diferentes das minúsculas.
 
-So por <b>curiosidade</b> coloquei aqui o mapeamento de todas as teclas no Vim. Não se apavore, e não tente decorar, com o tempo você vai aprender
+Só por <b>curiosidade</b> coloquei aqui o mapeamento de todas as teclas no Vim. Não se apavore, e não tente decorar, com o tempo você vai aprender
 <img src="../imagens/vi-vim-cheat-sheet.gif">
 
 <blockquote><i>mapeamento de teclas do Vim.</i></blockquote>

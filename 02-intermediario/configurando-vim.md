@@ -1,6 +1,6 @@
 <h1>Configurando o Vim</h1>
 
-O Vim puro, não e muito atraente, por isso vamos fazer um .vimrc para podermos configurar o nosso editor, e instalar temas e plugins.
+O Vim puro, não é muito atraente, por isso vamos fazer um .vimrc para podermos configurar o nosso editor e instalar temas e plugins.
 
 <img src="../imagens/vim.png">
 
@@ -8,15 +8,15 @@ O Vim puro, não e muito atraente, por isso vamos fazer um .vimrc para podermos 
 
 <h2>.vimrc</h2>
 
-Primeiros vamos acessar o nosso arquivo. Se você não tiver o .vimrc, acabamos de cria-lo.
+Primeiros vamos acessar o nosso arquivo. Se você não tiver o .vimrc, acabamos de criá-lo.
 
 ```shell
 vim ~/.vimrc
 ```
 
 
-Vamos fazer uma configuração simples, logo, logo entenderá o porque.
-Agora que já estamos com o .vimrc aberto iremos edita-lo.
+Vamos fazer uma configuração simples, logo, logo você entenderá o porque.
+Agora que já estamos com o .vimrc aberto iremos editá-lo.
 
 ```vim
 " Ativa a numeração das linhas
@@ -43,7 +43,7 @@ Essas configurações são  pessoais, então olhe a de outras pessoas para poder
 <ul>
   <li><a href="https://www.vivaolinux.com.br/etc/vimrc-2/">.vimrc - Viva o Linux</a></li>
   <li>
- <a href="https://pt.wikibooks.org/wiki/Vim/Como_editar_prefer%C3%AAncias">Como editar preferencias - WikiBooks</a></li>
+ <a href="https://pt.wikibooks.org/wiki/Vim/Como_editar_prefer%C3%AAncias">Como editar preferências - WikiBooks</a></li>
   <li><a href="https://dougblack.io/words/a-good-vimrc.html">A goo vimrc - Doug Black</a></li>
 </ul>
 
@@ -55,7 +55,7 @@ Caso você tenha preguiça de fazer, esses sites vão facilitar muito sua vida:
 
 <h2>Temas</h2>
 
-Podemos instalar temas atraves de um arquivo ou plugin, os procedimentos são bastante iguais.
+Podemos instalar temas através de um arquivo ou plugin, os procedimentos são bastante iguais.
 
 Confira alguns temas aqui:
 <ul>
@@ -67,7 +67,7 @@ Será necessário criar uma a pasta ∼/.vim , se a mesma ainda não existir.
 
 Os temas podem ser clonados dentro de ∼/.vim/colors para melhor organização.
 
-Normalmente, na documentação do próprio tema tem um passo a passo de instalação, mas
+Normalmente, na documentação do próprio tema tem um passo à passo de instalação, mas
 basicamente você sempre vai fazer:
 
 ```shell
@@ -98,15 +98,15 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 call vundle#end()            " required
 ```
-Agora ja temoso Vundle instalado, so precisamos adicionar os plugins.
+Agora já temos o Vundle instalado, só precisamos adicionar os plugins.
 
-Site com varios plugins para o Vim:
+Site com vários plugins para o Vim:
 
 <ul>
   <li><a href="https://vimawesome.com/">Vim Awesome</a></li>
 </ul>
 
-Nesse exemplo vou instalar a sintaxe do javascript.
+Nesse exemplo vou instalar a sintaxe do Javascript.
 
 1. Abra o .vimrc e adicione o plugin antes de "call vundle#end()"
 
@@ -126,13 +126,13 @@ vim
 :PluginInstall
 ```
 
-4. Agora é so sair
+4. Agora é só sair
 
 ```vim
 :q
 ```
 
-Pronto, já temos o plugin instalado. Voce pode instalar quantos plugins quiser, mas quanto mais plugins voce tiver, seu Vim pode começar a ficar lento.
+Pronto, já temos o plugin instalado. Você pode instalar quantos plugins quiser, mas quanto mais plugins voce tiver, seu Vim pode começar a ficar lento.
 
 Visite o site do <a href="vimawesome.com/">VimAwesome</a>, lá tem muitas coisas legais.
 
@@ -149,9 +149,9 @@ Não esqueça de usar <a href="www.google.com">Google</a>.
 <img src="../imagens/meu-vim.png">
 <blockquote><i>plugins e tema que estou utilizando</i></blockquote>
 
-Esse é o meu Vim, toda essa configuração foi feita atraves do Vim Bootstrap com algumas mudanças como o tema e mais alguns plugins. Não vou deixar o meu <i>.vimrc</i> porque ta uma bagunça, e não tem nada de especial. 
+Esse é o meu Vim, toda essa configuração foi feita através do Vim Bootstrap com algumas mudanças como o tema e mais alguns plugins. Não vou deixar o meu <i>.vimrc</i> porque ta uma bagunça, e não tem nada de especial. 
 
-Lembra quando eu falei por que iriamos fazer um .vimrc simples, esse é o motivo, Vim Bootstrap.
+Lembra quando eu falei por que iríamos fazer um .vimrc simples, esse é o motivo, Vim Bootstrap.
 
 <b>OBS:</b> o Vim Bootstrap usa o Plug e não o Vundle.
 

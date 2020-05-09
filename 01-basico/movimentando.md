@@ -1,14 +1,14 @@
 <h1>Movimentando</h1>
 
-Como um dos principios do Vim é agilidade, pode-se utilizar ao invés de setas, as letras <b>h</b>, <b>j</b>, <b>k</b>, <b>l</b> <i>(modo normal)</i> como se fossem setas, onde:
+Como um dos princípios do Vim é agilidade, pode-se utilizar ao invés de setas, as letras <b>h</b>, <b>j</b>, <b>k</b>, <b>l</b> <i>(modo normal)</i> como se fossem setas, onde:
 
-<b>h : </b>esquerda
+<b>h : </b>mover para esquerda
 
-<b>j : </b>baixo 
+<b>j : </b>mover para baixo 
 
-<b>k : </b>cima
+<b>k : </b>mover para cima
 
-<b>l : </b>direita
+<b>l : </b>mover direita
 
 <h2>Mas por que essas teclas?</h2>
 
@@ -28,7 +28,7 @@ Bem diferente de hoje, onde temos um teclado com mais teclas e funções.
 
 <h2>Aprendendo teclas</h2>
 
-O mais legal do Vim é que quando sabemos o que uma tecla faz, e outra tambem, podemos fazer uma combinação entre elas. 
+O mais legal do Vim é que quando sabemos o que uma tecla faz, e outra também, podemos fazer uma combinação entre elas. 
  
 Agora que já sabemos nos movimentar, vamos supor que você quer descer 15 linhas, em vez de apertar <i>j</i> esse tanto vezes, basta fazer assim: <i>(modo normal)</i>
 
@@ -48,17 +48,17 @@ Podemos usar outras teclas para nos mover, e assim ganhar agilidade e tempo.
 
 <b>ge ............. </b><i>para mover ao final de uma palavra voltando o cursor</i>
 
-<b>w .............. </b><i>para mover ate o começo da proxima palavra</i>
+<b>w .............. </b><i>para mover até o começo da próxima palavra</i>
 
-<b>b ............... </b><i>para mover ate o começo de uma palavra voltando o cursor</i>
+<b>b ............... </b><i>para mover até o começo de uma palavra voltando o cursor</i>
 
 <b>0 ............... </b><i>para mover ao começo de uma linha</i>
 
-<b>$ ............... </b><i>para mover ate ao final de uma linha</i>
+<b>$ ............... </b><i>para mover até o final de uma linha</i>
 
 <b>} ............... </b><i>para pular ao final do parágrafo</i>
 
-<b>% ............. </b><i>para pular <b>para</b> o fechamento de um parentese/colchete/chaves</i>
+<b>% ............. </b><i>para pular <b>para</b> o fechamento de um parêntese/colchete/chaves</i>
 
 <b>^G ............ </b><i>para saber sua posição no documento</i>
 

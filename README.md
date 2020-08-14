@@ -8,7 +8,7 @@
 
 <h3>Vim, o que é? porque usar? e configurações...</h3>
 
-[![Watch the video](https://marcell-assets.s3-sa-east-1.amazonaws.com/vim-screenshot+1+(1).png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://marcell-assets.s3-sa-east-1.amazonaws.com/vim-screenshot+1+(1).png)](https://youtu.be/RydlHE6OpRM)
 
 
 

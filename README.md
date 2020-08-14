@@ -6,7 +6,12 @@
 <h1 align="center">vim4noobs</h1>
 <p align="center">Quem nunca entrou no <b>Vim</b> e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito!</p>
 
+
 <h2>ROADMAP</h2>
+<h3>Vim</h3>
+<ol>
+  <li><a href="https://youtu.be/RydlHE6OpRM">O que é? porque usar? e configurações...</a>
+</ol>
 <h3>Introdução</h3>
 <ol>
   <li><a href="00-introducao/historia.md">História</a></li>

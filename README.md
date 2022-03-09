@@ -31,7 +31,11 @@
   <li><a href="02-intermediario/buscas-substituicoes.md">Buscas e Substituições</a></li>
   <li><a href="02-intermediario/usando-ctrl.md">Usando o Ctrl</a></li>
   <li><a href="02-intermediario/arquivos-janelas.md">Arquivos e Janelas</a></li>
-  <li><a href="02-intermediario/acabou.md">Acabou?</a></li>
+</ol>
+<h3>Avançado</h3>
+<ol>
+  <li><a href="03-avancado/code-completion.md">Code Completion</a></li>
+  <li><a href="03-avancado/acabou.md">Acabou?</a></li>
 </ol>
 <h3>Referências</h3>
 <ul>
@@ -54,6 +58,7 @@ Contribuições fazem com que a comunidade <i>Open Source</i> seja um lugar incr
 
 <ul>
   <li><b>Luan Mateus (hellowluan)</b> - <i>Developer</i> - <a href="https://www.instagram.com/hellowluan/">Instagram</a></li>
+  <li><b>Igor Tauhan (taauhsz)</b> - <i>Backend Developer</i> - <a href="https://www.linkedin.com/in/taauhsz">LinkedIn</a></li>
 </ul>
 
 <p align="center">Made with 💜<p>
